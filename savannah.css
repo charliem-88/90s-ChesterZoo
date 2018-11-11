@@ -1,0 +1,88 @@
+body{
+  background-image: url("drygrass.jpg");
+  background-repeat: repeat;
+
+}
+
+h1{
+
+  border: black 5px dotted;
+  font-family: serif;
+  color: #FF9933;
+  font-size: 50px;
+  text-shadow: 2px 2px #ff0000;
+}
+
+#meerkat{
+  height:300px;
+  width:400px;
+}
+
+#rhino{
+  height:300px;
+  width:400px;
+}
+
+p{
+  background-color: peachpuff;
+  border: 5px yellow solid;
+  font-family: serif;
+  box-shadow: 10px 10px black;
+}
+
+#rhino2{
+  border:
+
+  animation-duration: 3s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+}
+h2{
+  border: black 5px dotted;
+  font-family: 'Faster One', cursive;
+  color: #FF9933;
+  font-size: 50px;
+  text-shadow: 2px 2px #ff0000;
+}
+
+audio {
+   display:none;
+}
+
+#wow p{
+
+    width: 150px;
+    height: 80px;
+    background-color: yellow;
+    -ms-transform: rotate(340deg); /* IE 9 */
+    -webkit-transform: rotate(340deg); /* Safari 3-8 */
+    transform: rotate(340deg);
+    background-color: #FF9933;
+    font-size: 50px;
+    color: green;
+
+}
+
+#cool p{
+  width: 150px;
+  height: 80px;
+  background-color: yellow;
+  -ms-transform: rotate(20deg); /* IE 9 */
+  -webkit-transform: rotate(20deg); /* Safari 3-8 */
+  transform: rotate(20deg);
+  background-color: #FF9933;
+  font-size: 50px;
+  color: green;
+}
+
+footer{
+  font-family: serif;
+  color: white;
+}
+
+button{
+  font-family: serif;
+  background-color: grey;
+}
+
+}

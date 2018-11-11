@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="642.18848"
+   id="svg6340"
+   inkscape:version="0.45+devel"
+   sodipodi:docbase="/home/yves/Desktop"
+   sodipodi:docname="question_mark_yves_guill_01.svg"
+   sodipodi:version="0.32"
+   width="344.35565"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"
+   inkscape:export-filename="/home/yves/Bureau/openclipart/question_mark_yves_guill_01.png"
+   inkscape:export-xdpi="42"
+   inkscape:export-ydpi="42">
+  <metadata
+     id="metadata3">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>question mark</dc:title>
+        <dc:description></dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>symbol</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://www.openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>yves GUILLOU</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date></dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:language>en</dc:language>
+        <dc:identifier></dc:identifier>
+        <dc:source></dc:source>
+        <dc:relation></dc:relation>
+        <dc:coverage></dc:coverage>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6342">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       id="perspective17"
+       inkscape:vp_x="-50 : 600 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="700 : 600 : 1"
+       inkscape:persp3d-origin="300 : 400 : 1" />
+    <linearGradient
+       id="linearGradient27735">
+      <stop
+         id="stop27737"
+         offset="0"
+         style="stop-color:#09a0ff;stop-opacity:1;" />
+      <stop
+         id="stop27739"
+         offset="1"
+         style="stop-color:#1254f5;stop-opacity:0;" />
+    </linearGradient>
+    <radialGradient
+       cx="438.01651"
+       cy="-641.72571"
+       fx="438.01651"
+       fy="-641.72571"
+       gradientTransform="matrix(1.077288,1.055137e-6,-3.579811e-7,0.362811,-33.85365,-269.7658)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient34997"
+       inkscape:collect="always"
+       r="263.40692"
+       xlink:href="#linearGradient27735" />
+  </defs>
+  <sodipodi:namedview
+     bordercolor="#666666"
+     borderopacity="1.0"
+     id="base"
+     inkscape:current-layer="layer1"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:window-height="694"
+     inkscape:window-width="838"
+     inkscape:window-x="180"
+     inkscape:window-y="12"
+     inkscape:zoom="0.35"
+     pagecolor="#ffffff"
+     showgrid="false" />
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Calque 1"
+     transform="translate(-244.32949,-113.40853)">
+    <path
+       d="M 365.12094,714.03426 C 365.12094,714.95502 365.12094,715.87578 365.12094,714.03426 z"
+       id="path31367"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.46970803px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       id="g34981"
+       transform="matrix(9.399569,0,0,11.982264,-1655.9268,-755.77057)">
+      <path
+         d="M 215.01181,64.711273 C 215.01181,65.034653 215.01181,65.358033 215.01181,64.711273 z"
+         id="path32258"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.08679461px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         d="M 211.28125,72.625 C 202.88915,72.087251 198.55743,86.627823 207.15625,89.1875 C 211.70831,89.332776 215.30859,83.178526 219.9375,86.5625 C 222.77176,87.329439 225.90057,91.477718 221.90625,93.15625 C 215.88788,96.196436 209.67122,102.69369 212.125,109.96875 C 212.51653,112.18731 217.63104,112.93855 213.59375,114.15625 C 208.19063,117.74147 211.86145,126.52625 218.09375,126.25 C 223.88991,127.37676 229.77246,120.46896 225.625,115.4375 C 224.70701,113.72694 220.9175,113.36573 224.125,112 C 226.84091,109.51017 223.91463,105.15998 227.74988,103.11746 C 232.49367,97.595536 241.93715,91.862938 238.28125,83.25 C 233.73583,73.611476 220.15754,73.958226 211.28125,72.625 z"
+         id="text34096"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Flubber" />
+      <path
+         d="M 237.75098,88.153038 C 237.75095,90.201072 236.74829,92.270404 234.74298,94.361038 C 233.07896,96.1104 231.41496,97.838398 229.75098,99.545038 C 228.55629,100.7824 227.38296,102.01973 226.23098,103.25704 C 224.7803,104.79306 224.05496,106.28639 224.05498,107.73704 C 224.05496,107.90772 224.0763,108.16372 224.11898,108.50504 C 224.2043,108.84639 224.24696,109.10239 224.24698,109.27304 C 224.24696,110.33972 223.7563,111.17172 222.77498,111.76904 C 221.9643,112.28105 221.0043,112.53705 219.89498,112.53704 C 218.4443,112.53705 217.14297,112.15305 215.99098,111.38504 C 214.83897,110.57439 214.26297,109.46505 214.26298,108.05704 C 214.26297,107.84372 214.43364,106.73439 214.77498,104.72904 C 215.11631,102.85173 216.31097,101.05973 218.35898,99.353038 C 220.15097,98.073065 221.9643,96.771733 223.79898,95.449038 C 225.6763,94.083735 226.61496,92.76107 226.61498,91.481038 C 226.61496,89.561073 225.4203,87.833075 223.03098,86.297038 C 220.89763,84.931744 218.80697,84.249078 216.75898,84.249038 C 215.64964,84.249078 214.15631,84.867744 212.27898,86.105038 C 210.44431,87.299742 209.14298,87.897075 208.37498,87.897038 C 207.43631,87.897075 206.62565,87.342409 205.94298,86.233038 C 205.38832,85.251744 205.11098,84.249078 205.11098,83.225038 C 205.11098,81.731748 205.60165,80.131749 206.58298,78.425038 C 207.77765,76.33442 209.78298,75.289087 212.59898,75.289038 C 213.11098,75.289087 215.67097,75.63042 220.27898,76.313038 C 225.27096,77.038419 229.04696,78.019751 231.60698,79.257038 C 235.70295,81.305081 237.75095,84.270412 237.75098,88.153038 M 225.65498,120.02504 C 225.65496,121.56104 225.01496,122.77704 223.73498,123.67304 C 222.49763,124.52637 221.0683,124.95304 219.44698,124.95304 C 217.95364,124.95304 216.60964,124.50504 215.41498,123.60904 C 214.22031,122.67037 213.62298,121.47571 213.62298,120.02504 C 213.62298,118.57438 214.22031,117.40105 215.41498,116.50504 C 216.60964,115.56638 217.95364,115.09705 219.44698,115.09704 C 221.02563,115.09705 222.4123,115.50238 223.60698,116.31304 C 224.9723,117.25171 225.65496,118.48905 225.65498,120.02504"
+         id="text34100"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#02f839;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Flubber" />
+    </g>
+  </g>
+</svg>

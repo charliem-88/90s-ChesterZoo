@@ -1,0 +1,58 @@
+* {box-sizing: border-box;}
+.img-magnifier-container {
+  position:relative;
+}
+
+body{
+  background-image: url("rainforest.gif");
+  background-repeat: repeat;
+
+}
+
+.img-magnifier-glass {
+  position: absolute;
+  border: 3px solid #000;
+  border-radius: 50%;
+  cursor: none;
+  /*Set the size of the magnifier glass:*/
+  width: 100px;
+  height: 100px;
+}
+
+h1, h3{
+  font-family: Helvetica, serif;
+  color: magenta;
+  font-size: 50px;
+  font-weight: bold;
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px pink, 0 0 5px deeppink;
+
+
+}
+
+header{
+  margin: 30px;
+}
+p{
+
+    box-shadow: 10px 10px 5px grey;
+    background-image: linear-gradient(fuchsia, green);
+    font-family: Times,serif;
+    color: white;
+}
+
+button{
+  font-family: serif;
+  background-color: grey;
+}
+
+footer{
+  font-family: serif;
+  color: white;
+}
+
+.checklist{
+  font-size: 30px;
+  width: 600px;
+
+}
