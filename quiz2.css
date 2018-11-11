@@ -1,0 +1,37 @@
+body{
+    font-size: 20px;
+    font-family: Times, serif;
+    color: #333;
+      background-image: url("quiz/questionmarkbackground.gif");
+      background-repeat: repeat;
+
+}
+.question{
+    font-weight: 600;
+    background-color: white;
+}
+.answers {
+  margin-bottom: 20px;
+  background-color: white;
+}
+.answers label{
+  display: block;
+}
+#submit{
+    font-family: serif;
+    font-size: 20px;
+    background-color: grey;
+    box-shadow: 10px 10px black;
+    border: 5px black;
+    padding: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    width: 100px;
+}
+#submit:hover{
+    background-color: #00FFFF;
+}
+button{
+  font-family: serif;
+  background-color: grey;
+}
