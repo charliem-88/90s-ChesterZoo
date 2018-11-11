@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="refresh" content="4;url=https://helen-stancombe.github.io/90s-ChesterZoo/monkeys.html" /> //insert redirect page here/
+    <title>loadpage</title>
+    
+     <script type="text/javascript"> </script>
+    
+    <style media = "screen">
+.loader {
+    
+    position: fixed;
+    z-index: 99;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("tiger-print.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+        
+        .loader > img {
+            width: 500px
+                 -webkit-animation:spin 4s linear infinite;
+    -moz-animation:spin 4s linear infinite;
+    animation:spin 4s linear infinite;
+        }
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } ;
+            }
+        
+        .loader.hidden {
+            
+            animation: fadeout 0s;
+            animation-fill-mode: forwards;
+        }
+        
+        @keyframes fadeout {
+            100% {
+                opacity: 0;
+                visibility: hidden;
+            }
+        } 
+    
+</style>
+    
+    </head>
+    <body>
+         <div class="loader">
+        
+        <img src = "pageloading.jpg" alt="Loading..."  />
+        
+    </div>
+    </body>
+</html>
