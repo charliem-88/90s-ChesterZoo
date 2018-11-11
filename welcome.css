@@ -1,0 +1,41 @@
+body{
+  background-image: url("images/welcome/jungle.jpg");
+  background-repeat: repeat;
+
+}
+
+.perfect-centering {
+     position: absolute;
+     top: 50%;
+     left:50%;
+     transform: translate(-50%,-50%);
+   }
+
+   h1, h2{
+     background-color: darkorange;
+     text-shadow: 2px 2px firebrick;
+     font-family: serif;
+     width: 300px;
+     box-shadow: 10px 10px orange;
+     font-size: 60px;
+     color: black;
+   }
+   h2{
+     font-size: 20px;
+   }
+
+
+   button{
+     font-family: serif;
+     background-color: grey;
+   }
+
+   footer{
+     font-family: serif;
+     color: white;
+   }
+
+   #animals{
+     height: 300px;
+     width: 500px;
+   }
